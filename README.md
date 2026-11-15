@@ -1,7 +1,8 @@
 # Relay — Equipment Health
 Independent portfolio prototype by Ibrahim Aldrees.
 
-![alt text](https://drive.google.com/file/d/1QfyUwpG_RbIF5RKXobkNxH4hjtzn6NNk/view?usp=sharing)
+<img width="2194" height="1099" alt="Relay_overview" src="https://github.com/user-attachments/assets/11f4dd83-661a-4e51-a676-f4642be85347" />
+
 
 ## Run locally
 Serve `dist` with any static HTTP server, for example `python3 -m http.server 8000 --directory dist`, then open localhost:8000. No dependencies or external requests are required.
