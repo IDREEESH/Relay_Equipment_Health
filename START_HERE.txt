@@ -1,0 +1,10 @@
+Extract this ZIP first. Open dist/index.html in Chrome or Edge to run the dashboard locally. No installation or internet connection is required.
+
+For an HTTP server, from this folder run:
+  py -m http.server 8000 --directory dist
+Then open http://localhost:8000
+
+Optional tests (requires Node.js):
+  node tests/engine.test.cjs
+
+See README.md for architecture, simulation rules and limitations.
