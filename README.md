@@ -1,7 +1,8 @@
 # Relay — Equipment Health
 Independent portfolio prototype by Ibrahim Aldrees.
 
-<img width="2194" height="1099" alt="Relay_overview" src="https://github.com/user-attachments/assets/11f4dd83-661a-4e51-a676-f4642be85347" />
+<img width="2180" height="1084" alt="Relay" src="https://github.com/user-attachments/assets/7f6f54ef-56ce-4016-abb5-a60767e6ebff" />
+
 
 
 ## Run locally
